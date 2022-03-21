@@ -1,0 +1,12 @@
+{
+	"name": "Builder",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "builder",
+	"workspaceFolder": "/workspace",
+
+	"extensions": [
+		"ms-python.python"
+	],
+
+	"remoteUser": "vscode"
+}

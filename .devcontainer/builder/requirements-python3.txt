@@ -1,0 +1,8 @@
+ipykernel
+numpy
+pandas
+execnet
+pillow
+opencv-python
+matplotlib
+sklearn

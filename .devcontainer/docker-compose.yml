@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  
+  builder:
+    build:
+      context: ..
+      dockerfile: .devcontainer/builder/Dockerfile
+    volumes:
+      - ..:/workspace
+    container_name: builder
+    command: sleep infinity
+    env_file:
+      - .env
