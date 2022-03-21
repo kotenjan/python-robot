@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="datafiles/demo.mp4" />
-</p>
+[video](datafiles/demo.mp4)
 
 [demo](testing.ipynb)
 
