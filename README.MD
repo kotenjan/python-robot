@@ -2,4 +2,4 @@
 
 [demo](testing.ipynb)
 
-insert sdk named python-sdk.tar.gz in .devcontainer/builder
+insert naoqi sdk named python-sdk.tar.gz in .devcontainer/builder
