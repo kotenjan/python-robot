@@ -1,16 +1,5 @@
-I'm here to help you. Let's decode the existing README content and enhance it.
 
-Here is the decoded content of the current README file:
 
-```
-This program uses docker-compose to build an environment to communicate with Pepper robot manufactured by SoftBank robotics. The robot builds a tower from objects laying in front of it. Here is a short [video](datafiles/demo.mp4) demonstrating this ability. A simulator for the manipulation with the robotic arm can be found in a [demo](testing.ipynb) notebook.
-
-For the program to work, you are going to need the full version of Naoki SDK which needs to be named python-sdk.tar.gz and inserted in .devcontainer/builder
-```
-
-Let's create a more detailed and structured README file for the project:
-
----
 
 # Python Robot
 
@@ -73,11 +62,3 @@ Contributions are welcome! Please create a new branch for your feature or bug fi
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or inquiries, feel free to open an issue or contact the repository owner.
-
----
-
-Feel free to modify this as needed for your project.
