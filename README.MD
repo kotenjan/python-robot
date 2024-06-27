@@ -1,4 +1,4 @@
-![Project Screenshot](/datafiles/Screenshot 2024-06-27 102719.png)
+![Project Screenshot](datafiles/Screenshot 2024-06-27 102719.png)
 
 
 # Python Robot
